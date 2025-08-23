@@ -19,7 +19,7 @@
 ### 📍 Education:
 - **Master of Computer Applications (MCA)** - Lakshmi Narain College of Technology, Bhopal | 2025-2027
 - **Bachelor's Degree in Computer Science** - University of Delhi | 2025
-- 🎯 **Goal:** Preparing for GATE to pursue M.Tech CSE at IIT Delhi
+- 🎯 **Goal:** Preparing for GATE .
 
 ---
 
@@ -128,6 +128,3 @@ Machine learning model for predicting gold prices using historical financial dat
 
 ⭐ **Open to collaborations** on AI/ML projects and research opportunities!
 
-![Snake animation](https://github.com/Pradeep0410-03/Pradeep0410-03/blob/output/github-contribution-grid-snake.svg)
-
-</div>
