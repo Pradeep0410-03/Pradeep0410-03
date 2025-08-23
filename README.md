@@ -1,100 +1,152 @@
-# Hi there! 👋 I'm Pradeep Tiwari
+# 👋 Howdy! I'm Pradeep Tiwari
 
-## 🚀 About Me
-I'm a **Master of Computer Applications (MCA)** student passionate about **Artificial Intelligence** and **Machine Learning**. Currently building my expertise in AI/ML to become a skilled **Machine Learning Engineer**.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Machine+Learning+Engineer;AI+Enthusiast;Data+Science+Explorer;Problem+Solver)](https://git.io/typing-svg)
 
-- 🎓 **MCA Student** at Lakshmi Narain College of Technology, Bhopal (Expected 2027)
-- 🎓 **Bachelor's degree** from University of Delhi
-- 🤖 Aspiring **ML Engineer** focused on building production-ready AI systems
-- 💻 Love solving complex problems through code and data
-- 🌱 Currently learning advanced ML techniques and deployment strategies
-- 📍 Based in Bhopal, Madhya Pradesh, India
+**Machine Learning Engineer | AI Enthusiast**
 
-## 🛠️ Tech Stack
+![Profile views](https://komarev.com/ghpvc/?username=Pradeep0410-03&color=brightgreen) [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitter?style=social)](https://twitter.com/yourtwitter)
 
-### Programming Languages
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![HTML](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+---
 
-### AI/ML & Data Science
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit Learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-11557c?style=flat-square&logo=plotly&logoColor=white)
+## 🌌 About Me
 
-### Tools & Platforms
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Jupyter](https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![SQLite](https://img.shields.io/badge/-SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
-![Snowflake](https://img.shields.io/badge/-Snowflake-29B5E8?style=flat-square&logo=snowflake&logoColor=white)
-![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+*"Turning data into insights, building intelligent solutions"* — *Pradeep*
 
-## 🎯 What I'm Working On
+- 🔭 Currently exploring **Advanced ML techniques** and **MLOps**
+- 🎓 **MCA Student** at Lakshmi Narain College of Technology, Bhopal
+- 🤖 Aspiring **ML Engineer** focused on production-ready AI systems
+- 👯 Open to collaborating on **AI/ML projects** and **open-source**
+- 📫 Reach me: **tiwaripradeep9575@gmail.com**
+- ⚡ Fun fact: My models don't always converge, but when they do, the accuracy is surprisingly good! 🤖
 
-- 🔭 Building end-to-end ML projects with real-world applications
-- 📚 Mastering MLOps, model deployment, and production systems
-- 💡 Exploring advanced analytics in e-commerce and sports domains
-- 🏗️ Learning cloud platforms and data warehousing with Snowflake
-- 💻 Solving coding challenges and improving algorithmic thinking
+---
 
-## 📈 Featured Projects
+## 🚀 Featured Projects
 
-### 🛒 [E-commerce Customer Analytics](https://github.com/Pradeep0410-03/ecommerce-customer-analytic)
+### 🛒 E-commerce Customer Analytics
 Comprehensive customer analytics platform with ML-driven insights for e-commerce businesses.
 - **Tech Stack:** Python, Streamlit, Pandas, Scikit-learn, Matplotlib
 - **Features:** Customer churn prediction, lifetime value analysis, segmentation with K-means
 - **Highlights:** Interactive dashboard, automated data processing pipeline, actionable business insights
 
-### ⚽ [Football Agent Dashboard](https://github.com/Pradeep0410-03/Football-Agent-Dashboard)
+### ⚽ Football Agent Dashboard
 Real-time football transfer data analysis platform with agent performance tracking.
 - **Tech Stack:** Python, Dash, Plotly, BeautifulSoup, SQLite, Pandas
 - **Features:** Web scraping from Transfermarkt, agent network visualization, transfer value analytics
 - **Highlights:** Real-time data pipeline, interactive network graphs, comprehensive transfer insights
 
-### 📈 [Gold Price Prediction using ML](https://github.com/Pradeep0410-03/Goldpricepredictusingml)
+### 📈 Gold Price Prediction using ML
 Machine learning model for predicting gold prices using historical financial data.
 - **Tech Stack:** Python, Pandas, NumPy, Matplotlib, Seaborn, Scikit-learn
 - **Features:** Time series analysis, feature engineering, multiple ML algorithms comparison
 - **Highlights:** 2,200+ days of historical data analysis, model performance optimization
 
-## 📊 GitHub Stats
+---
 
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradeep0410-03&show_icons=true&theme=radical)
+## 🌐 Connect with Me
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep0410-03&layout=compact&theme=radical)
-
-## 🎓 Education
-
-- **Master of Computer Applications (MCA)** - Lakshmi Narain College of Technology, Bhopal | 2025-2027
-- **Bachelor's Degree** - University of Delhi
-
-## 🏆 Coding & Problem Solving
-
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/53pflSCuz8/)
-
-## 🌟 Goals
-
-- 🎯 Land my first role as an **ML Engineer** or **Junior AI Engineer**
-- 🚀 Build impactful AI solutions that solve real business problems
-- 📈 Contribute to open-source ML projects and collaborate with the community
-- 🔬 Continue learning cutting-edge AI/ML technologies and best practices
-
-## 📫 Let's Connect!
-
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-tiwari-84a735230/)
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:tiwaripradeep9575@gmail.com)
-[![LeetCode](https://img.shields.io/badge/-LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/53pflSCuz8/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-tiwari-84a735230/)
+[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/Pradeep0410-03)
+[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Potential_Pound2828/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white)](mailto:tiwaripradeep9575@gmail.com)
 
 ---
 
-💡 **"Turning data into insights, building intelligent solutions"**
+## 🛠️ Tech Stack
 
-⭐ **Open to opportunities** as ML Engineer, Data Scientist, or AI Research roles!
+### Programming Languages
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white)
+![SQL](https://img.shields.io/badge/sql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 
-![Profile Views](https://komarev.com/ghpvc/?username=Pradeep0410-03&color=brightgreen)
+### AI/ML & Data Science
+![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+![Seaborn](https://img.shields.io/badge/Seaborn-%23150458.svg?style=for-the-badge&logo=python&logoColor=white)
+
+### Tools & Platforms
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-%23F9AB00.svg?style=for-the-badge&logo=googlecolab&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
+![Snowflake](https://img.shields.io/badge/snowflake-%2329B5E8.svg?style=for-the-badge&logo=snowflake&logoColor=white)
+
+---
+
+## 📊 GitHub Stats (Dark Mode)
+
+<div align="center">
+
+![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=Pradeep0410-03&show_icons=true&theme=radical&hide_border=false&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Pradeep0410-03&theme=radical&hide_border=false)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Pradeep0410-03&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
+
+---
+
+## 🏆 GitHub Achievements
+
+<div align="center">
+
+![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pradeep0410-03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
+
+</div>
+
+---
+
+## 🔥 Contribution Graph
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pradeep0410-03&theme=react-dark&hide_border=true)
+
+</div>
+
+---
+
+## 🎓 Education & Goals
+
+**🎯 Current Focus:**
+- 📚 Mastering MLOps and model deployment
+- 🏗️ Learning cloud platforms and data warehousing 
+- 💡 Building end-to-end ML projects with real-world applications
+- 🚀 Seeking opportunities as **ML Engineer** or **AI Research roles**
+
+**📍 Education:**
+- **Master of Computer Applications (MCA)** - Lakshmi Narain College of Technology, Bhopal | 2025-2027
+- **Bachelor's Degree** - University of Delhi
+
+---
+
+## Popular Repositories
+
+<div align="center">
+
+[![E-commerce Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=ecommerce-analytics&theme=radical)](https://github.com/Pradeep0410-03/ecommerce-analytics)
+[![Football Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=football-agent-dashboard&theme=radical)](https://github.com/Pradeep0410-03/football-agent-dashboard)
+
+[![Gold Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=gold-price-prediction&theme=radical)](https://github.com/Pradeep0410-03/gold-price-prediction)
+[![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=ml-projects&theme=radical)](https://github.com/Pradeep0410-03/ml-projects)
+
+</div>
+
+---
+
+<div align="center">
+
+### 💡 *"Building intelligent solutions, one algorithm at a time"*
+
+⭐ **Open to collaborations** on AI/ML projects and research opportunities!
+
+![Snake animation](https://github.com/Pradeep0410-03/Pradeep0410-03/blob/output/github-contribution-grid-snake.svg)
+
+</div>
