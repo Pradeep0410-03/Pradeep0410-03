@@ -1,10 +1,25 @@
-# 👋 Howdy! I'm Pradeep Tiwari
+# 👋 Hola! I'm Pradeep Tiwari
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D9FF&width=435&lines=Machine+Learning+Engineer;AI+Enthusiast;Data+Science+Explorer;Problem+Solver)](https://git.io/typing-svg)
 
 **Machine Learning Engineer | AI Enthusiast**
 
-![Profile views](https://komarev.com/ghpvc/?username=Pradeep0410-03&color=brightgreen) [![Twitter Follow](https://img.shields.io/twitter/follow/yourtwitter?style=social)](https://twitter.com/yourtwitter)
+![Profile views](https://komarev.com/ghpvc/?username=Pradeep0410-03&color=brightgreen)
+
+---
+
+## 🎓 Education & Goals
+
+### 🎯 Current Focus:
+- 📚 Mastering MLOps and model deployment
+- 🏗️ Learning cloud platforms and data warehousing 
+- 💡 Building end-to-end ML projects with real-world applications
+- 🚀 Seeking opportunities as **ML Engineer** or **AI Research roles**
+
+### 📍 Education:
+- **Master of Computer Applications (MCA)** - Lakshmi Narain College of Technology, Bhopal | 2025-2027
+- **Bachelor's Degree in Computer Science** - University of Delhi | 2025
+- 🎯 **Goal:** Preparing for GATE to pursue M.Tech CSE at IIT Delhi
 
 ---
 
@@ -122,10 +137,10 @@ Machine learning model for predicting gold prices using historical financial dat
 
 ## 📂 Popular Repositories
 
-[![E-commerce Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=ecommerce-analytics&theme=radical)](https://github.com/Pradeep0410-03/ecommerce-analytics)
-[![Football Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=football-agent-dashboard&theme=radical)](https://github.com/Pradeep0410-03/football-agent-dashboard)
+[![E-commerce Customer Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=ecommerce-customer-analytic&theme=radical)](https://github.com/Pradeep0410-03/ecommerce-customer-analytic)
+[![Football Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=Football-Agent-Dashboard&theme=radical)](https://github.com/Pradeep0410-03/Football-Agent-Dashboard)
 
-[![Gold Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=gold-price-prediction&theme=radical)](https://github.com/Pradeep0410-03/gold-price-prediction)
+[![Gold Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=Goldpricepredictionusingml&theme=radical)](https://github.com/Pradeep0410-03/Goldpricepredictionusingml)
 [![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=ml-projects&theme=radical)](https://github.com/Pradeep0410-03/ml-projects)
 
 ---
