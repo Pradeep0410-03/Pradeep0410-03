@@ -95,41 +95,32 @@ Machine learning model for predicting gold prices using historical financial dat
 
 ## 🏆 GitHub Achievements
 
-<div align="center">
-
 ![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=Pradeep0410-03&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
-</div>
 
 ---
 
 ## 🔥 Contribution Graph
 
-<div align="center">
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Pradeep0410-03&theme=react-dark&hide_border=true)
-
-</div>
 
 ---
 
 ## 🎓 Education & Goals
 
-**🎯 Current Focus:**
+### 🎯 Current Focus:
 - 📚 Mastering MLOps and model deployment
 - 🏗️ Learning cloud platforms and data warehousing 
 - 💡 Building end-to-end ML projects with real-world applications
 - 🚀 Seeking opportunities as **ML Engineer** or **AI Research roles**
 
-**📍 Education:**
+### 📍 Education:
 - **Master of Computer Applications (MCA)** - Lakshmi Narain College of Technology, Bhopal | 2025-2027
-- **Bachelor's Degree** - University of Delhi
+- **Bachelor's Degree in Computer Science** - University of Delhi | 2025
+- 🎯 **Goal:** Preparing for GATE to pursue M.Tech CSE at IIT Delhi
 
 ---
 
-## Popular Repositories
-
-<div align="center">
+## 📂 Popular Repositories
 
 [![E-commerce Analytics](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=ecommerce-analytics&theme=radical)](https://github.com/Pradeep0410-03/ecommerce-analytics)
 [![Football Dashboard](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=football-agent-dashboard&theme=radical)](https://github.com/Pradeep0410-03/football-agent-dashboard)
@@ -137,13 +128,11 @@ Machine learning model for predicting gold prices using historical financial dat
 [![Gold Price Prediction](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=gold-price-prediction&theme=radical)](https://github.com/Pradeep0410-03/gold-price-prediction)
 [![ML Projects](https://github-readme-stats.vercel.app/api/pin/?username=Pradeep0410-03&repo=ml-projects&theme=radical)](https://github.com/Pradeep0410-03/ml-projects)
 
-</div>
-
 ---
 
 <div align="center">
 
-### 💡 *"Building intelligent solutions, one algorithm at a time"*
+### 💡 **"Building intelligent solutions, one algorithm at a time"**
 
 ⭐ **Open to collaborations** on AI/ML projects and research opportunities!
 
