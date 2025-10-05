@@ -40,19 +40,7 @@ Preparing for cloud certifications (AWS Solutions Architect, Azure Data Engineer
 
 ## 🚀 Featured Projects
 
-### ☁️ **Real-Time Data Pipeline with AWS**
-End-to-end data engineering solution for processing streaming data at scale.
 
-- **Tech Stack:** AWS (S3, Lambda, Kinesis, Glue, Athena), Python, Apache Spark
-- **Features:** Real-time data ingestion, serverless ETL, automated data cataloging
-- **Highlights:** Processes 100K+ events/day, cost-optimized architecture, monitoring dashboard
-
-### 🏢 **Data Warehouse Modernization**
-Migrated legacy data warehouse to cloud-native solution with improved performance.
-
-- **Tech Stack:** Snowflake, dbt, Airflow, Python, SQL
-- **Features:** Dimensional modeling, incremental loads, data quality checks
-- **Highlights:** 70% query performance improvement, automated testing, CI/CD pipeline
 
 ### 📊 **E-commerce Analytics Platform**
 Scalable analytics platform for processing customer behavior data.
