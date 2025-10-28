@@ -1,8 +1,10 @@
 # Hi there, I'm Pradeep Tiwari! 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Scientist+%7C+ML+Engineer;Full+Stack+Developer;MCA+Student+%7C+Problem+Solver;Transforming+Data+into+Insights;Building+Intelligent+Solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=2E9EF7&center=true&vCenter=true&width=600&lines=Data+Science &Analyst+%7C+Software Developer;MCA+Student+%7C+Problem+Solver;Transforming+Data+into+Insights;Building+Intelligent+Solutions" alt="Typing SVG" />
 </div>
 ##  About Me
+
+
 I'm a passionate data science & Analyst and software developer currently pursuing my Master of Computer Applications (MCA) at Lakshmi Narain College of Technology, Bhopal. With a strong foundation in computer science and a keen interest in data science, I specialize in extracting actionable insights from complex datasets and building intelligent solutions that drive business value.
 
 I love transforming raw data into meaningful visualizations and predictive models that solve real-world problems. My expertise spans across data analytics, machine learning, web scraping, and full-stack development.
@@ -92,9 +94,7 @@ This project delivers customer segmentation, churn prediction, and customer life
 
 ##  GitHub Stats
 
-![Pradeep's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&theme=radical)
+![Pradeep's GitHub stats](https://github.com/Pradeep0410-03)
 
 ---
 
